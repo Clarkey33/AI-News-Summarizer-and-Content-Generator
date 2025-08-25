@@ -21,6 +21,8 @@ This is a high-performance RAG system that combines multiple search techniques a
 *   **LLM-Powered Summarization:** A RAG pipeline generates concise, accurate summaries.
 *   **Automated Content Creation:** A dedicated "LinkedIn Post Generator" agent transforms the news insights into a polished social media post.
 
+<img width="1968" height="1104" alt="image" src="https://github.com/user-attachments/assets/f19b576a-726f-45a9-9860-a75cc9b3aad1" />
+
 ### Tech Stack
 *   **Core AI:** RAG, LangChain (or similar)
 *   **NLP Features:** Named Entity Recognition (NER), Semantic Search
